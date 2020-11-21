@@ -22,5 +22,5 @@
 | hanging chair | | o | | |
 | sand bag | | o | | |
 | lights | | e | K? | buy |
-| wifi router | | e | V? | borrow/buy |
+| wifi router | | e | K? | borrow/buy |
 | | | | | |
