@@ -15,7 +15,7 @@
 | dishes | | e | | |
 | mugs | | e | V? | |
 | cleaning equipment | | e | K-CM | |
-| bed, matresses | | e | Ikea | |
+| bed, mattresses | sänky, pajat | e | Ikea | [UTÅKER](https://www.ikea.com/fi/fi/p/utaker-pinottava-saenky-maenty-00360484/) + MALFORS [kiinteä](https://www.ikea.com/fi/fi/p/malfors-vaahtomuovipatja-kiinteae-valkoinen-20272311/) ja [puolikiinteä](https://www.ikea.com/fi/fi/p/malfors-vaahtomuovipatja-puolikiinteae-valkoinen-40272287/) |
 | good speakers | | o | | |
 | plants | | o | | |
 | washing machine | | o | | |
