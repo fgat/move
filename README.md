@@ -15,7 +15,7 @@
 | dishes | | e | | |
 | mugs | | e | V? | |
 | cleaning equipment | | e | K-CM | |
-| bed | | e | Ikea | |
+| bed, matresses | | e | Ikea | |
 | good speakers | | o | | |
 | plants | | o | | |
 | washing machine | | o | | |
@@ -23,4 +23,7 @@
 | sand bag | | o | | |
 | lights | | e | K? | buy |
 | wifi router | | e | K? | borrow/buy |
+| mirror | | e | K? | borrow/buy |
+| pillows, blankets, bedsheets | | e | Ikea | |
+| exercise mat | | o | XXL | 2x puzzle |
 | | | | | |
