@@ -25,5 +25,5 @@
 | wifi router | | e | K? | borrow/buy |
 | mirror | | e | K? | borrow/buy |
 | pillows, blankets, bedsheets | | e | Ikea | 2x [patjansuojus](https://www.ikea.com/fi/fi/p/luddros-patjansuojus-30461641/) |
-| exercise mat | | o | XXL | 2x puzzle |
+| exercise mat | alusmatto | o | XXL | 2x [Puzzle Mat](https://www.xxl.fi/pure2improve-puzzle-mat-alusmatto-multicolor/p/1156029_1_style) |
 | | | | | |
