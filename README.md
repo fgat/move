@@ -2,7 +2,7 @@
 
 ## Equipment / varuste
 
-| item EN | item FI | essential/optional | source | additional info |
+| item EN | item FI | status, essential/optional | source | additional info |
 |-|-|-|-|-|
 | standing desk | sähköpöytä | e | K | buy |
 | kitchen cupboard | keittiön kaappi | e | K | buy |
@@ -16,7 +16,7 @@
 | mugs | | e | V? | |
 | cleaning equipment | | e | K-CM | |
 | bed, mattresses | sänky, pajat | e | Ikea | [UTÅKER](https://www.ikea.com/fi/fi/p/utaker-pinottava-saenky-maenty-00360484/) + MALFORS [kiinteä](https://www.ikea.com/fi/fi/p/malfors-vaahtomuovipatja-kiinteae-valkoinen-00272307/) ja [puolikiinteä](https://www.ikea.com/fi/fi/p/malfors-vaahtomuovipatja-puolikiinteae-valkoinen-10272284/) |
-| speakers | kaiutin | o | clas ohlson | [Marshall Acton II BT](https://www.clasohlson.com/fi/Bluetooth-kaiutin-Marshall-Acton-II-BT/p/38-9292-1) |
+| speakers | kaiutin | DONE | clas ohlson | [Marshall Acton II BT](https://www.clasohlson.com/fi/Bluetooth-kaiutin-Marshall-Acton-II-BT/p/38-9292-1) |
 | plants | | o | | |
 | washing machine | | o | | |
 | hanging chair | | o | | |
