@@ -26,4 +26,7 @@
 | mirror | | e | K? | borrow/buy |
 | pillows, blankets, bedsheets | | e | Ikea | 2x [patjansuojus](https://www.ikea.com/fi/fi/p/luddros-patjansuojus-30461641/) |
 | exercise mat | alusmatto | o | XXL | 2x [Puzzle Mat](https://www.xxl.fi/pure2improve-puzzle-mat-alusmatto-multicolor/p/1156029_1_style) |
+| fire blanket | | essential | e.g. Ikea | |
+| clothes hangers | | essential | e.g. Ikea | |
+| car first aid kit | | essential | Ikea / Motonet | |
 | | | | | |
