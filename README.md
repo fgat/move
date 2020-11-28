@@ -29,4 +29,5 @@
 | fire blanket | | essential | e.g. Ikea | |
 | clothes hangers | | essential | e.g. Ikea | |
 | car first aid kit | | essential | Ikea / Motonet | |
+| drying rack | | o | | |
 | | | | | |
