@@ -33,7 +33,7 @@ One time purchases only, no consumables.
   * mattresses MALFORS
     * 1x [kiinteä](https://www.ikea.com/fi/fi/p/malfors-vaahtomuovipatja-kiinteae-valkoinen-00272307/)
     * 1x [puolikiinteä](https://www.ikea.com/fi/fi/p/malfors-vaahtomuovipatja-puolikiinteae-valkoinen-10272284/)
-    * 2x mattress cover [LUDDROS](https://www.ikea.com/fi/fi/p/luddros-patjansuojus-30461641/)
+  * 2x mattress cover [LUDDROS](https://www.ikea.com/fi/fi/p/luddros-patjansuojus-30461641/)
 * 2x blanket 150x200cm
   * https://www.ikea.com/fi/fi/cat/peitot-20529/?filters=f-temperature%3Avaalean%20l%C3%A4mmin%2447471
 * 2x light blanket
@@ -59,6 +59,9 @@ One time purchases only, no consumables.
 * pot, medium, fit for oven
   * https://www.clasohlson.com/fi/search?text=jamie%20oliver%20tefal
     * [Tefal Jamie Oliver Stainless Steel](https://www.tefal.com/Cookware-%26-Kitchenware/Pots-%26-Pans/Cooking-like-Jamie-Oliver/Jamie-Oliver-Stainless-Steel/p/R-jamie-oliver-stainless-steel) = https://www.tefal.at/Kochgeschirr-%26-K%C3%BCchenhelfer/Tefal-by-Jamie-Oliver/F%C3%BCr-jeden-Tag/JAMIE-OLIVER-BRUSHED-EDELSTAHL/p/RANGE-05DZ-G
+    * https://www.clasohlson.com/fi/-Pata-2,8-l-Tefal-Jamie-Oliver-Stainless-Steel-Brushed/p/44-3671
+    * https://www.clasohlson.com/fi/Kattila-1,4-l-Tefal-Jamie-Oliver-Stainless-Steel-Brushed/p/44-3670
+    * https://www.clasohlson.com/fi/Paistokasari-25-cm-Tefal-Jamie-Oliver-Stainless-Brushed/p/44-3669
   * https://www.prisma.fi/fi/prisma/osasto/koti-ruoanvalmistus-kattilat#facet:-10028410110297108&productBeginIndex:0&facetLimit:&orderBy:9&pageView:&minPrice:&maxPrice:&pageSize:&
   * https://www.ecosto.fi/catalogue/category/keittio/paisto-ja-keittoastiat/kattilat_169/
   * https://www.k-ruoka.fi/kauppa/tuotehaku/keittio-astiat-ja-kattaus/leivonta--ja-ruoanlaittoastiat/kattilat
@@ -77,6 +80,8 @@ One time purchases only, no consumables.
   * https://www.ikea.com/at/de/cat/kuechenmesser-15946/
   * Fiskars
     * https://www.prisma.fi/fi/prisma/haku/fiskars%20veitsi#facet:&productBeginIndex:&facetLimit:&orderBy:&pageView:&minPrice:&maxPrice:&pageSize:&
+      * https://www.prisma.fi/fi/prisma/fiskars-functional-form-kokinveitsi-20cm
+      * https://www.prisma.fi/fi/prisma/fiskars-hard-edge-santoku-veitsi
   * ~~puukko~~
   * Victorinox
     * https://www.ecosto.fi/catalogue/category/keittio/keittiotarvikkeet_2/keittioveitset_172/
@@ -95,6 +100,10 @@ One time purchases only, no consumables.
     * [kettu](https://www.finlayson.fi/products/kettu-keittiopyyhe-2kpl?variant=31577887768651)
     * [siili](https://www.finlayson.fi/products/siili-keittiopyyhe-2kpl?variant=32413804167243)
     * [pupu](https://www.finlayson.fi/products/pupu-keittiopyyhe-2kpl?variant=31577893765195)
+* measuring cup
+* freezer containers
+* (mixer and mixing bowl)
+* (Pürierstab)
 
 ### eating and drinking
 
@@ -102,10 +111,10 @@ One time purchases only, no consumables.
   * 4x [Muumi mukit (Prismassa)](https://www.prisma.fi/fi/prisma/osasto/koti-kattaminen-astiat-mukit-ja-kupit#facet:-100265114979810597&productBeginIndex:0&facetLimit:&orderBy:9&pageView:&minPrice:&maxPrice:&pageSize:&)
 * dishes
   * [OFTAST series (Ikeass)](https://www.ikea.com/fi/fi/search/products/?q=OFTAST)
-  * 4x plates, deep
-  * 4x plates, flat
-  * 4x plates, small
-  * 4x bowls, müsli sized
+  * 6x plates, deep
+  * 6x plates, flat
+  * 6x plates, small
+  * 6x bowls, müsli sized
 * 6x water glass
  * https://www.ikea.com/fi/fi/p/storsint-lasi-kirkas-lasi-40396018/
 * cutlery set
