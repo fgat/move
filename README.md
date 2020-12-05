@@ -1,6 +1,66 @@
-# Move Preparation
+# Need -> Buy
 
-## Equipment / varuste
+
+## bedroom
+
+* blanket x2
+* pillow small x2+
+* pillow large x2
+* pillow large firm x2
+* blanket covers
+* pillow covers
+
+
+## kitchen
+
+### cooking
+
+* pot, medium, fit for oven
+* lid for pot, fit for oven
+* pan, medium, fit for oven
+* lid for pan, fit for oven
+* cutting board, wood or bambus
+* medium sized cutting knife straight edge, either
+  * Fiskars
+  * puukko
+  * Victorinox
+  * ~sushi knife, pretty with wooden handle
+* dish towel x4+
+
+### eating and drinking
+
+* mugs
+* plates, deep
+* plates, flat
+* plates, small
+* bowls, müsli sized
+* glasses
+* knifes
+* forks
+* spoons
+* teaspoons
+
+## bathroom
+
+* hand towels (kitchen, bathroom, bedroom) x4+
+* toilet brush
+* *water broom*
+
+- - -
+
+## brands and shops
+
+* [Ikea](https://www.ikea.com/fi/fi/)
+  * [Ikea Vantaa](https://www.ikea.com/fi/fi/stores/vantaa/)
+* [Ecosto](https://www.ecosto.fi/) (online)
+* [Prisma](https://www.prisma.fi/fi/prisma)
+  * [Arabia](https://arabia.fi/)
+* [Finnlayson](https://www.finlayson.fi/) pop-up store Kaari
+* [Clas Ohlson](https://www.clasohlson.com/fi/)
+
+- - -
+
+## Equipment / varuste. (Slightly outdated / vähän vanha)
 
 | item EN | item FI | status, essential/optional | source | additional info |
 |-|-|-|-|-|
