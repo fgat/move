@@ -1,14 +1,41 @@
-# Need -> Buy
+# Need &rarr; Buy
+
+One time purchases only, no consumables.
+
+## style
+
+* high quality
+* light wood
+* bambus
+* white
+* minimalist
+* sustainable
+
+## brands and shops
+
+* [Ikea](https://www.ikea.com/fi/fi/)
+  * [Ikea Vantaa](https://www.ikea.com/fi/fi/stores/vantaa/)
+* [Ecosto](https://www.ecosto.fi/) (online)
+* [Prisma](https://www.prisma.fi/fi/prisma)
+  * [Arabia](https://arabia.fi/)
+* [Finnlayson](https://www.finlayson.fi/) pop-up store Kaari
+* [Clas Ohlson](https://www.clasohlson.com/fi/)
+* [K-Citymarket Malmi](https://www.k-ruoka.fi/kauppa/k-citymarket-helsinki-malmi)
+
+
+- - -
 
 
 ## bedroom
 
 * blanket x2
+* light blanket
 * pillow small x2+
 * pillow large x2
 * pillow large firm x2
 * blanket covers
 * pillow covers
+* clothes hangers, metal
 
 
 ## kitchen
@@ -16,15 +43,23 @@
 ### cooking
 
 * pot, medium, fit for oven
+  * https://www.ecosto.fi/catalogue/category/keittio/paisto-ja-keittoastiat/kattilat_169/
 * lid for pot, fit for oven
+  * https://www.ecosto.fi/catalogue/category/keittio/paisto-ja-keittoastiat/keitto-ja-paistoastioiden-kannet_318/
 * pan, medium, fit for oven
+  * https://www.ecosto.fi/catalogue/category/keittio/paisto-ja-keittoastiat/paistinpannut_110/
 * lid for pan, fit for oven
 * cutting board, wood or bambus
-* medium sized cutting knife straight edge, either
+  * https://www.ikea.com/at/de/cat/schneidebretter-15947/
+* medium sized cutting knife straight edge
+  * https://www.ikea.com/at/de/cat/kuechenmesser-15946/
   * Fiskars
   * puukko
   * Victorinox
+    * https://www.ecosto.fi/catalogue/category/keittio/keittiotarvikkeet_2/keittioveitset_172/
+      * https://www.ecosto.fi/catalogue/victorinox-kokkiveitsi-tera-15cm_18651/
   * ~sushi knife, pretty with wooden handle
+    * https://www.ecosto.fi/catalogue/victorinox-santoku-veitsi-tera-17-cm_26847/
 * dish towel x4+
 
 ### eating and drinking
@@ -40,25 +75,22 @@
 * spoons
 * teaspoons
 
+
 ## bathroom
 
 * hand towels (kitchen, bathroom, bedroom) x4+
 * toilet brush
 * *water broom*
 
-- - -
 
-## brands and shops
+## div
 
-* [Ikea](https://www.ikea.com/fi/fi/)
-  * [Ikea Vantaa](https://www.ikea.com/fi/fi/stores/vantaa/)
-* [Ecosto](https://www.ecosto.fi/) (online)
-* [Prisma](https://www.prisma.fi/fi/prisma)
-  * [Arabia](https://arabia.fi/)
-* [Finnlayson](https://www.finlayson.fi/) pop-up store Kaari
-* [Clas Ohlson](https://www.clasohlson.com/fi/)
+* LED light bulbs
+* dustpan and brush
+
 
 - - -
+
 
 ## Equipment / varuste. (Slightly outdated / vähän vanha)
 
