@@ -28,11 +28,15 @@ One time purchases only, no consumables.
 
 ## bedroom
 
+* bed  [UTÅKER](https://www.ikea.com/fi/fi/p/utaker-pinottava-saenky-maenty-00360484/)
+  * mattresses MALFORS [kiinteä](https://www.ikea.com/fi/fi/p/malfors-vaahtomuovipatja-kiinteae-valkoinen-00272307/) ja [puolikiinteä](https://www.ikea.com/fi/fi/p/malfors-vaahtomuovipatja-puolikiinteae-valkoinen-10272284/) |
 * blanket x2
 * light blanket
+  * https://www.ikea.com/at/de/cat/tagesdecken-bettueberwuerfe-20527/
 * pillow small x2+
 * pillow large x2
 * pillow large firm x2
+  * https://www.ikea.com/fi/fi/p/omtaenksam-monitoimityyny-harmaa-30469487/
 * blanket covers
 * pillow covers
 * clothes hangers, metal
@@ -43,23 +47,38 @@ One time purchases only, no consumables.
 ### cooking
 
 * pot, medium, fit for oven
+  * https://www.clasohlson.com/fi/search?text=jamie%20oliver%20tefal
+    * [Tefal Jamie Oliver Stainless Steel](https://www.tefal.com/Cookware-%26-Kitchenware/Pots-%26-Pans/Cooking-like-Jamie-Oliver/Jamie-Oliver-Stainless-Steel/p/R-jamie-oliver-stainless-steel) = https://www.tefal.at/Kochgeschirr-%26-K%C3%BCchenhelfer/Tefal-by-Jamie-Oliver/F%C3%BCr-jeden-Tag/JAMIE-OLIVER-BRUSHED-EDELSTAHL/p/RANGE-05DZ-G
+  * https://www.prisma.fi/fi/prisma/osasto/koti-ruoanvalmistus-kattilat#facet:-10028410110297108&productBeginIndex:0&facetLimit:&orderBy:9&pageView:&minPrice:&maxPrice:&pageSize:&
   * https://www.ecosto.fi/catalogue/category/keittio/paisto-ja-keittoastiat/kattilat_169/
-* lid for pot, fit for oven
-  * https://www.ecosto.fi/catalogue/category/keittio/paisto-ja-keittoastiat/keitto-ja-paistoastioiden-kannet_318/
+  * https://www.k-ruoka.fi/kauppa/tuotehaku/keittio-astiat-ja-kattaus/leivonta--ja-ruoanlaittoastiat/kattilat
+  * lid for pot, fit for oven
+    * https://www.ecosto.fi/catalogue/category/keittio/paisto-ja-keittoastiat/keitto-ja-paistoastioiden-kannet_318/
 * pan, medium, fit for oven
+  * https://www.clasohlson.com/fi/search?text=jamie%20oliver%20pannu
+  * https://www.prisma.fi/fi/prisma/osasto/koti-ruoanvalmistus-pannut#facet:-10028410110297108&productBeginIndex:0&facetLimit:&orderBy:9&pageView:&minPrice:&maxPrice:&pageSize:&
   * https://www.ecosto.fi/catalogue/category/keittio/paisto-ja-keittoastiat/paistinpannut_110/
-* lid for pan, fit for oven
+  * https://www.k-ruoka.fi/kauppa/tuotehaku/keittio-astiat-ja-kattaus/leivonta--ja-ruoanlaittoastiat/paistinpannut-ja-paistokasarit
+  * lid for pan, fit for oven
 * cutting board, wood or bambus
-  * https://www.ikea.com/at/de/cat/schneidebretter-15947/
+  * https://www.ikea.com/at/de/search/products/?q=schneidbrett%20bambus
+  * https://www.ikea.com/at/de/p/skydd-holzoel-innengebrauch-00046786/
 * medium sized cutting knife straight edge
   * https://www.ikea.com/at/de/cat/kuechenmesser-15946/
   * Fiskars
+    * https://www.prisma.fi/fi/prisma/haku/fiskars%20veitsi#facet:&productBeginIndex:&facetLimit:&orderBy:&pageView:&minPrice:&maxPrice:&pageSize:&
   * puukko
   * Victorinox
     * https://www.ecosto.fi/catalogue/category/keittio/keittiotarvikkeet_2/keittioveitset_172/
       * https://www.ecosto.fi/catalogue/victorinox-kokkiveitsi-tera-15cm_18651/
   * ~sushi knife, pretty with wooden handle
     * https://www.ecosto.fi/catalogue/victorinox-santoku-veitsi-tera-17-cm_26847/
+* cooking spoons
+  * https://www.ikea.com/at/de/p/roert-loeffel-buche-10278460/
+  * https://www.ikea.com/at/de/p/glupsk-bratenwender-akazie-70495757/
+  * https://www.ikea.com/at/de/p/roert-loeffel-buche-40278468/
+* laddle
+  * https://www.ikea.com/at/de/p/ikea-365-hjaelte-suppenkelle-edelstahl-schwarz-70149465/
 * dish towel x4+
 
 ### eating and drinking
@@ -79,13 +98,18 @@ One time purchases only, no consumables.
 ## bathroom
 
 * hand towels (kitchen, bathroom, bedroom) x4+
+  * https://www.finlayson.fi/collections/kasipyyhkeet
+    * [Nuuskamuikkunen Käsipyyhe](https://www.finlayson.fi/products/nuuskamuikkunen-pyyhe?variant=32981689729099)
 * toilet brush
 * *water broom*
 
 
 ## div
 
-* LED light bulbs
+* lights
+  * https://www.ikea.com/fi/fi/search/products/?q=melodi
+  * [E27 LED light bulbs](https://www.ikea.com/fi/fi/search/products/?q=e27)
+    * https://www.ikea.com/fi/fi/p/rollsbo-led-lamppu-e27-200-lm-himmennettaevae-putkenmuotoinen-harmaa-lasi-40411636/
 * dustpan and brush
 
 
