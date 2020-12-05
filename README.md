@@ -8,6 +8,7 @@ One time purchases only, no consumables.
 * light wood
 * bambus
 * white
+* metal instead of plastic
 * minimalist
 * sustainable
 
