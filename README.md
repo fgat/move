@@ -46,7 +46,8 @@ One time purchases only, no consumables.
 * bed linen
   * 2x https://www.ikea.com/fi/fi/p/spikvallmo-pussilakana-1-tyynyliina-valkoinen-sininen-ruutu-60466449/
   * 2x https://www.ikea.com/fi/fi/p/blavinda-pussilakana-1-tyynyliina-harmaa-90328084/
-  * 4x https://www.ikea.com/fi/fi/p/dvala-muotoonommeltu-lakana-valkoinen-60360532/  
+  * 2x https://www.ikea.com/fi/fi/p/dvala-muotoonommeltu-lakana-valkoinen-60360532/  
+    * and 2x better quality from Prisma
 * additional pillow covers, as needed
 * clothes hangers, metal
   * 2x https://www.ikea.com/fi/fi/p/stajlig-vaateripustin-sisae-ulkokaeyttoeoen-valkoinen-00291419/
@@ -56,45 +57,25 @@ One time purchases only, no consumables.
 
 ### cooking
 
-* pot, medium, fit for oven
-  * https://www.clasohlson.com/fi/search?text=jamie%20oliver%20tefal
-    * [Tefal Jamie Oliver Stainless Steel](https://www.tefal.com/Cookware-%26-Kitchenware/Pots-%26-Pans/Cooking-like-Jamie-Oliver/Jamie-Oliver-Stainless-Steel/p/R-jamie-oliver-stainless-steel) = https://www.tefal.at/Kochgeschirr-%26-K%C3%BCchenhelfer/Tefal-by-Jamie-Oliver/F%C3%BCr-jeden-Tag/JAMIE-OLIVER-BRUSHED-EDELSTAHL/p/RANGE-05DZ-G
+* pots and pans, fit for oven
+  * [Tefal Jamie Oliver Stainless Steel](https://www.tefal.com/Cookware-%26-Kitchenware/Pots-%26-Pans/Cooking-like-Jamie-Oliver/Jamie-Oliver-Stainless-Steel/p/R-jamie-oliver-stainless-steel) = https://www.tefal.at/Kochgeschirr-%26-K%C3%BCchenhelfer/Tefal-by-Jamie-Oliver/F%C3%BCr-jeden-Tag/JAMIE-OLIVER-BRUSHED-EDELSTAHL/p/RANGE-05DZ-G
     * https://www.clasohlson.com/fi/-Pata-2,8-l-Tefal-Jamie-Oliver-Stainless-Steel-Brushed/p/44-3671
     * https://www.clasohlson.com/fi/Kattila-1,4-l-Tefal-Jamie-Oliver-Stainless-Steel-Brushed/p/44-3670
     * https://www.clasohlson.com/fi/Paistokasari-25-cm-Tefal-Jamie-Oliver-Stainless-Brushed/p/44-3669
-  * https://www.prisma.fi/fi/prisma/osasto/koti-ruoanvalmistus-kattilat#facet:-10028410110297108&productBeginIndex:0&facetLimit:&orderBy:9&pageView:&minPrice:&maxPrice:&pageSize:&
-  * https://www.ecosto.fi/catalogue/category/keittio/paisto-ja-keittoastiat/kattilat_169/
-  * https://www.k-ruoka.fi/kauppa/tuotehaku/keittio-astiat-ja-kattaus/leivonta--ja-ruoanlaittoastiat/kattilat
-  * lid for pot, fit for oven
-    * https://www.ecosto.fi/catalogue/category/keittio/paisto-ja-keittoastiat/keitto-ja-paistoastioiden-kannet_318/
-* pan, medium, fit for oven
-  * https://www.clasohlson.com/fi/search?text=jamie%20oliver%20pannu
-  * https://www.prisma.fi/fi/prisma/osasto/koti-ruoanvalmistus-pannut#facet:-10028410110297108&productBeginIndex:0&facetLimit:&orderBy:9&pageView:&minPrice:&maxPrice:&pageSize:&
-  * https://www.ecosto.fi/catalogue/category/keittio/paisto-ja-keittoastiat/paistinpannut_110/
-  * https://www.k-ruoka.fi/kauppa/tuotehaku/keittio-astiat-ja-kattaus/leivonta--ja-ruoanlaittoastiat/paistinpannut-ja-paistokasarit
-  * lid for pan, fit for oven
 * cutting board, wood or bambus
   * https://www.ikea.com/at/de/search/products/?q=schneidbrett%20bambus
   * https://www.ikea.com/at/de/p/skydd-holzoel-innengebrauch-00046786/
 * medium sized cutting knife straight edge
-  * https://www.ikea.com/at/de/cat/kuechenmesser-15946/
-  * Fiskars
-    * https://www.prisma.fi/fi/prisma/haku/fiskars%20veitsi#facet:&productBeginIndex:&facetLimit:&orderBy:&pageView:&minPrice:&maxPrice:&pageSize:&
-      * https://www.prisma.fi/fi/prisma/fiskars-functional-form-kokinveitsi-20cm
-      * https://www.prisma.fi/fi/prisma/fiskars-hard-edge-santoku-veitsi
-  * ~~puukko~~
-  * Victorinox
-    * https://www.ecosto.fi/catalogue/category/keittio/keittiotarvikkeet_2/keittioveitset_172/
-      * https://www.ecosto.fi/catalogue/victorinox-kokkiveitsi-tera-15cm_18651/
-  * ~sushi knife, pretty with wooden handle
-    * https://www.ecosto.fi/catalogue/victorinox-santoku-veitsi-tera-17-cm_26847/
+  * https://www.prisma.fi/fi/prisma/fiskars-hard-edge-santoku-veitsi or
+  * https://www.prisma.fi/fi/prisma/victorinox-fibrox-santoku-veitsi-17cm
 * cooking spoons
   * https://www.ikea.com/at/de/p/roert-loeffel-buche-10278460/
   * https://www.ikea.com/at/de/p/glupsk-bratenwender-akazie-70495757/
   * https://www.ikea.com/at/de/p/roert-loeffel-buche-40278468/
 * laddle
-  * https://www.ikea.com/at/de/p/ikea-365-hjaelte-suppenkelle-edelstahl-schwarz-70149465/
+  * something nicer than https://www.ikea.com/at/de/p/ikea-365-hjaelte-suppenkelle-edelstahl-schwarz-70149465/
 * dish towel x4+
+  * a few cheap Ikea towels
   * https://www.finlayson.fi/collections/keittiopyyhkeet
     * [karhu](https://www.finlayson.fi/products/karhu-keittiopyyhe-2kpl?variant=32413844209739)
     * [kettu](https://www.finlayson.fi/products/kettu-keittiopyyhe-2kpl?variant=31577887768651)
