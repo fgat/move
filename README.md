@@ -47,7 +47,7 @@ One time purchases only, no consumables.
   * 2x https://www.ikea.com/fi/fi/p/spikvallmo-pussilakana-1-tyynyliina-valkoinen-sininen-ruutu-60466449/
   * 2x https://www.ikea.com/fi/fi/p/blavinda-pussilakana-1-tyynyliina-harmaa-90328084/
   * 2x https://www.ikea.com/fi/fi/p/dvala-muotoonommeltu-lakana-valkoinen-60360532/  
-    * and 2x better quality from Prisma
+    * and 2x better quality from Prisma https://www.prisma.fi/fi/prisma/osasto/koti-vuodetekstiilit-lakanat#facet:&productBeginIndex:&facetLimit:&orderBy:9&pageView:&minPrice:&maxPrice:&pageSize:&
 * additional pillow covers, as needed
 * clothes hangers, metal
   * 2x https://www.ikea.com/fi/fi/p/stajlig-vaateripustin-sisae-ulkokaeyttoeoen-valkoinen-00291419/
