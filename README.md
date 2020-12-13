@@ -30,28 +30,28 @@ One time purchases only, no consumables.
 
 ## bedroom
 
-* beds 80x200cm [UTÅKER](https://www.ikea.com/fi/fi/p/utaker-pinottava-saenky-maenty-00360484/)
+* ~~beds 80x200cm [UTÅKER](https://www.ikea.com/fi/fi/p/utaker-pinottava-saenky-maenty-00360484/)~~
   * ~~mattresses MALFORS~~
     * ~~1x [kiinteä](https://www.ikea.com/fi/fi/p/malfors-vaahtomuovipatja-kiinteae-valkoinen-00272307/)~~
     * ~~1x [puolikiinteä](https://www.ikea.com/fi/fi/p/malfors-vaahtomuovipatja-puolikiinteae-valkoinen-10272284/)~~
   * 2x mattress cover [LUDDROS](https://www.ikea.com/fi/fi/p/luddros-patjansuojus-30461641/)
-* 2x blanket 150x200cm
+* ~~2x blanket 150x200cm~~
   * https://www.ikea.com/fi/fi/cat/peitot-20529/?filters=f-temperature%3Avaalean%20l%C3%A4mmin%2447471
-* 2x *day* blanket
+* ~~2x *day* blanket~~
   * https://www.ikea.com/fi/fi/cat/paeivaepeitot-20527/?filters=f-materials%3Apuuvilla%2447458%7Cpellava%2448341
-* pillow small x2+
+* ~~pillow small x2+~~
   * https://www.ikea.com/fi/fi/cat/tyynyt-20533/
 * pillow large x2
 * pillow large firm x2
   * https://www.ikea.com/fi/fi/p/omtaenksam-monitoimityyny-harmaa-30469487/
 * bed linen
   * pillow and blanket covers
-    * 2x https://www.ikea.com/fi/fi/p/spikvallmo-pussilakana-1-tyynyliina-valkoinen-sininen-ruutu-60466449/
+    * ~~2x https://www.ikea.com/fi/fi/p/spikvallmo-pussilakana-1-tyynyliina-valkoinen-sininen-ruutu-60466449/ ~~
     * ~~2x from K~~
     * 2x from K?
-  * ~~4x mattress cover, better quality from Prisma https://www.prisma.fi/fi/prisma/osasto/koti-vuodetekstiilit-lakanat#facet:&productBeginIndex:&facetLimit:&orderBy:9&pageView:&minPrice:&maxPrice:&pageSize:& ~~
+  * ~~4x mattress cover, better quality https://www.prisma.fi/fi/prisma/osasto/koti-vuodetekstiilit-lakanat#facet:&productBeginIndex:&facetLimit:&orderBy:9&pageView:&minPrice:&maxPrice:&pageSize:& ~~
 * additional pillow covers, as needed
-* clothes hangers, metal
+* ~~clothes hangers, metal~~
   * 2x https://www.ikea.com/fi/fi/p/stajlig-vaateripustin-sisae-ulkokaeyttoeoen-valkoinen-00291419/
 
 
@@ -82,6 +82,7 @@ One time purchases only, no consumables.
     * ~~[siili](https://www.finlayson.fi/products/siili-keittiopyyhe-2kpl?variant=32413804167243)~~
     * ~~[pupu](https://www.finlayson.fi/products/pupu-keittiopyyhe-2kpl?variant=31577893765195)~~
 * measuring cup
+* cheese cutter
 * ~~2x freezer containers~~
 * (mixer and mixing bowl)
 * (Pürierstab)
@@ -111,13 +112,15 @@ One time purchases only, no consumables.
 
 * ~~hand towels (kitchen, bathroom, bedroom) x4+~~
   * ~~ https://www.finlayson.fi/collections/kasipyyhkeet ~~
-* toilet brush
+* ~~toilet brush~~
 * *water broom*
+* trash container
 
 
 ## div
 
-* lights
+* light mounts
+* ~~lights~~
   * https://www.ikea.com/fi/fi/search/products/?q=melodi
   * [E27 LED light bulbs](https://www.ikea.com/fi/fi/search/products/?q=e27)
     * https://www.ikea.com/fi/fi/p/rollsbo-led-lamppu-e27-200-lm-himmennettaevae-putkenmuotoinen-harmaa-lasi-40411636/
@@ -142,19 +145,19 @@ One time purchases only, no consumables.
 | ~~dishes~~ | | e | | |
 | ~~mugs~~ | | e | V? | |
 | cleaning equipment | | e | K-CM | |
-| bed, ~~mattresses~~ | sänky, pajat | e | Ikea | [UTÅKER](https://www.ikea.com/fi/fi/p/utaker-pinottava-saenky-maenty-00360484/) + MALFORS [kiinteä](https://www.ikea.com/fi/fi/p/malfors-vaahtomuovipatja-kiinteae-valkoinen-00272307/) ja [puolikiinteä](https://www.ikea.com/fi/fi/p/malfors-vaahtomuovipatja-puolikiinteae-valkoinen-10272284/) |
-| speakers | kaiutin | DONE | clas ohlson | [Marshall Acton II BT](https://www.clasohlson.com/fi/Bluetooth-kaiutin-Marshall-Acton-II-BT/p/38-9292-1) |
-| plants | | o | | |
+| ~~bed, mattresses~~ | sänky, pajat | e | Ikea | [UTÅKER](https://www.ikea.com/fi/fi/p/utaker-pinottava-saenky-maenty-00360484/) + MALFORS [kiinteä](https://www.ikea.com/fi/fi/p/malfors-vaahtomuovipatja-kiinteae-valkoinen-00272307/) ja [puolikiinteä](https://www.ikea.com/fi/fi/p/malfors-vaahtomuovipatja-puolikiinteae-valkoinen-10272284/) |
+| ~~speakers~~ | kaiutin | DONE | clas ohlson | [Marshall Acton II BT](https://www.clasohlson.com/fi/Bluetooth-kaiutin-Marshall-Acton-II-BT/p/38-9292-1) |
+| ~~plants~~ | | o | | |
 | washing machine | | o | | |
 | hanging chair | | o | | |
 | sand bag | | o | | |
-| lights | | e | K? | buy |
-| wifi router | | e | K? | borrow/buy |
-| mirror | | e | K? | borrow/buy |
+| ~~lights~~ | | e | K? | buy |
+| ~~wifi router~~ | | e | K? | borrow/buy |
+| ~~mirror~~ | | e | K? | borrow/buy |
 | pillows, blankets, bedsheets | | e | Ikea | 2x [patjansuojus](https://www.ikea.com/fi/fi/p/luddros-patjansuojus-30461641/) |
 | exercise mat | alusmatto | o | XXL | 2x [Puzzle Mat](https://www.xxl.fi/pure2improve-puzzle-mat-alusmatto-multicolor/p/1156029_1_style) |
 | ~~fire blanket~~ | | essential | e.g. Ikea | |
-| clothes hangers | | essential | e.g. Ikea | |
+| ~~clothes hangers~~ | | essential | e.g. Ikea | |
 | car first aid kit | | essential | Ikea / Motonet | |
 | drying rack | | o | | |
 | | | | | |
