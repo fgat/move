@@ -27,6 +27,27 @@ One time purchases only, no consumables.
 
 - - -
 
+## Ikea
+
+1. bowls https://www.ikea.com/fi/fi/search/products/?q=BLANDA%20BLANK
+1. garlic press https://www.ikea.com/fi/fi/p/koncis-valkosipulinpuristin-ruostumaton-teraes-00089163/
+1. Hachel https://www.ikea.com/fi/fi/p/idealisk-raastinrauta-ruostumaton-teraes-66916200/
+1. power strips https://www.ikea.com/fi/fi/p/koppla-6-paik-jatkojohto-katkaisija-valkoinen-00412015/
+1. drying rack https://www.ikea.com/fi/fi/p/frost-kuivausteline-sisae-ulkokaeyttoeoen-valkoinen-40244831/
+1. (pan and brush) https://www.ikea.com/fi/fi/p/borstad-pieni-harja-ja-rikkalapio-50449484/
+1. brush https://www.ikea.com/fi/fi/p/borstad-vaateharja-10458022/
+1. container holder https://www.ikea.com/fi/fi/p/ikea-365-pidike-purkille-valkoinen-10378346/
+1. cutting board, medium https://www.ikea.com/fi/fi/p/aptitlig-leikkuulauta-bambu-80233430/
+1. cutting board, small https://www.ikea.com/fi/fi/p/aptitlig-leikkuulauta-bambu-60233426/
+1. freezer bags https://www.ikea.com/fi/fi/p/istad-uudelleensuljettava-pussi-punainen-20339284/
+1. containers with bamboo lid https://www.ikea.com/fi/fi/p/ikea-365-kannellinen-saeilytysastia-4-kulmainen-1.asi-bambu-s19269116/
+1. pillow https://www.ikea.com/fi/fi/p/omtaenksam-monitoimityyny-harmaa-30469487/
+1. table https://www.ikea.com/fi/fi/p/norden-taittopoeytae-koivu-90423887/
+1. chair legs https://www.ikea.com/fi/fi/p/langfjaell-kokoustuoli-gunnared-vaaleanvihreae-valkoinen-s49252355/
+
+
+- - -
+
 
 ## bedroom
 
