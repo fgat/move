@@ -43,7 +43,7 @@ One time purchases only, no consumables.
 1. containers with bamboo lid https://www.ikea.com/fi/fi/p/ikea-365-kannellinen-saeilytysastia-4-kulmainen-1.asi-bambu-s19269116/
 1. pillow https://www.ikea.com/fi/fi/p/omtaenksam-monitoimityyny-harmaa-30469487/
 1. table https://www.ikea.com/fi/fi/p/norden-taittopoeytae-koivu-90423887/
-1. chair legs https://www.ikea.com/fi/fi/p/langfjaell-kokoustuoli-gunnared-vaaleanvihreae-valkoinen-s49252355/
+1. chair legs https://www.ikea.com/fi/fi/p/langfjaell-toimistotuoli-kaesinojilla-gunnared-vaaleanvihreae-valkoinen-s29252993/
 
 
 - - -
